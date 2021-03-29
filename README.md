@@ -15,7 +15,7 @@ We aim to:
 
 The following methods rely on variable-to-set group association testing.
 
-* = Permission has been granted by the code authors to re-implement existing code into a shared package.
+\* = Permission has been granted by the code authors to re-implement existing code into a shared package.
 
 
 #### Extraction of Statistically Significant Clusters
